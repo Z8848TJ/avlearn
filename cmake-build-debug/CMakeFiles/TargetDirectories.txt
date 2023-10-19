@@ -1,0 +1,3 @@
+D:/data/c/avlearn/cmake-build-debug/CMakeFiles/avlearn.dir
+D:/data/c/avlearn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/c/avlearn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
